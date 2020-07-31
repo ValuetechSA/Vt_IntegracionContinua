@@ -246,7 +246,7 @@
             <property name="value" class="String">Correo Prueba Integración Continua</property>
           </property>
           <property name="message" class="kapow.robot.plugin.common.support.expression.stringexpr.ValueStringExpression">
-            <property name="value" class="String">Cuerpo correo de prueba.</property>
+            <property name="value" class="String">Cuerpo correo de prueba, descarga de factura electronica.</property>
           </property>
           <property name="mailServer" class="kapow.robot.plugin.common.support.expression.stringexpr.ValueStringExpression">
             <property name="value" class="String">smtp.office365.com</property>
